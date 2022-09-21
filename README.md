@@ -18,12 +18,15 @@ Stitched images are further processed to eliminate most of the outer mismatched 
 
 ## Results
 
+Inputs:
 <div style="float:left">
-<div style="float:left"><img width="30%" src="https://github.com/Sudarshana2000/Panorama/blob/master/input/IMG_1.jpg" />
-<img width="30%" src="https://github.com/Sudarshana2000/Panorama/blob/master/input/IMG_2.jpg" />
-<img width="30%" src="https://github.com/Sudarshana2000/Panorama/blob/master/input/IMG_3.jpg" />
+<div style="float:left"><img width="25%" src="https://github.com/Sudarshana2000/Panorama/blob/master/input/IMG_1.jpg" />
+<img width="25%" src="https://github.com/Sudarshana2000/Panorama/blob/master/input/IMG_2.jpg" />
+<img width="25%" src="https://github.com/Sudarshana2000/Panorama/blob/master/input/IMG_3.jpg" />
+<img width="25%" src="https://github.com/Sudarshana2000/Panorama/blob/master/input/IMG_4.jpg" />
 </div>
 <br /><br />
 
+Panorama view:
 <img src="https://github.com/Sudarshana2000/Panorama/blob/master/output/cropped1.jpg" />
 <br />
